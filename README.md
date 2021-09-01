@@ -45,7 +45,9 @@ It describes the food/drink item name, location and amount of money.
 |   Peproni       | MaryVille|    10  |
 |   Glennleivdt   |  Chicago |   150  |
 
+### Pithy Quotes
 
+---
 
-
-
+> The best way is to predict free future is to create it - *ABRAHAM LONCOLN*
+> Every pain gives a lesson and every lesson changes a person - *A.P.J ABDUL KALAM*
