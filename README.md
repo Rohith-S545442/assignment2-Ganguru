@@ -18,6 +18,15 @@ The above **Palawan Island** was in **Philippines**
         1. Charge of the ticket will be $220
     2. Southwest Airlines are cheaper compared to American Airlines
 3. From Chicago take flight to Philippines Capital Manila
+* In Manila Buy some Food/Drinks for Enjoyment
+    * Food Needed
+        * Pizza
+        * Chicken
+        * Rice/Breads
+    * Drinks Mandatory
+        * Coke
+        * Beers
+        * Vodka
 4. From Manila go to the Palawan Island by Boat
 
 
