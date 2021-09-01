@@ -31,4 +31,21 @@ The above **Palawan Island** was in **Philippines**.
 
 [ABOUT ME](AboutMe.md)
 
+The following table describes the 4 types of food/drinks that everyone should try.<br>
+It describes the food/drink item name, location and amount of money.
+
+### Tables
+
+---
+
+| Food/Drink Item | Location | Amount |
+|   ----------    |  -----   |   ---- | 
+|   Cheese Pizza  |  Kansas  |    30  |
+|   Corona Extra  |  Texas   |    90  |
+|   Peproni       | MaryVille|    10  |
+|   Glennleivdt   |  Chicago |   150  |
+
+
+
+
 
