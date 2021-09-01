@@ -3,7 +3,7 @@
 ## Rohith Sai Ganguru
 ###### Palawan Island
 
-The above **Palawan Island** was in **Philippines** 
+The above **Palawan Island** was in **Philippines**.
 
 ### Travel Guide
 
@@ -29,5 +29,6 @@ The above **Palawan Island** was in **Philippines**
         * Vodka
 4. From Manila go to the Palawan Island by Boat
 
+[ABOUT ME](AboutMe.md)
 
 
