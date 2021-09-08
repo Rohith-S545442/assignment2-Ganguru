@@ -52,3 +52,30 @@ It describes the food/drink item name, location and amount of money.
 > The best way is to predict free future is to create it - *ABRAHAM LONCOLN*
 
 > Every pain gives a lesson and every lesson changes a person - *A.P.J ABDUL KALAM*
+
+## Code Fencing
+
+---
+
+> Ternary search is a divide and conquer algorithm that can be used to find an element in an array. 
+> It is similar to binary search where we divide the array into two parts but in this algorithm, we divide the given array into three parts and determine which has the key (searched element).
+
+The function `terenary_search` has the definition
+```
+double ternary_search(double l, double r) {
+    double eps = 1e-9;              //set the error limit here
+    while (r - l > eps) {
+        double m1 = l + (r - l) / 3;
+        double m2 = r - (r - l) / 3;
+        double f1 = f(m1);      //evaluates the function at m1
+        double f2 = f(m2);      //evaluates the function at m2
+        if (f1 < f2)
+            l = m1;
+        else
+            r = m2;
+    }
+    return f(l);                    //return the maximum of f(x) in [l, r]
+}
+```
+
+Let's know about more about Terenary Search <https://cp-algorithms.com/num_methods/ternary_search.html>
